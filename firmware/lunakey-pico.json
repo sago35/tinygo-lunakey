@@ -1,0 +1,6 @@
+{
+    "inherits": [
+        "pico"
+    ],
+    "serial-port": ["5954:0003"]
+}
