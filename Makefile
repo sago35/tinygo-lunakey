@@ -14,7 +14,7 @@ flash-right: FORCE
 FORCE:
 
 gen-def-with-find:
-	find . -name vial.json | xargs -n 1 gen-def
+	find . -name vial.json | xargs -n 1 go run github.com/sago35/tinygo-keyboard/cmd/gen-def
 
 gen-def:
 	go run github.com/sago35/tinygo-keyboard/cmd/gen-def ./firmware/left/vial.json
