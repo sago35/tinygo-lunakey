@@ -1,5 +1,7 @@
 # tinygo-keyboard firmware for Lunakey Pico
 
+![](./images/lunakey-pico.jpg)
+
 This repository is for creating unofficial firmware for the Lunakey Pico.
 The firmware is created using sago35/tinygo-keyboard.
 
