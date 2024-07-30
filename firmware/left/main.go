@@ -46,13 +46,13 @@ func run() error {
 			jp.KeyTab, jp.KeyQ, jp.KeyW, jp.KeyE, jp.KeyR, jp.KeyT,
 			jp.KeyLeftCtrl, jp.KeyA, jp.KeyS, jp.KeyD, jp.KeyF, jp.KeyG,
 			jp.KeyLeftShift, jp.KeyZ, jp.KeyX, jp.KeyC, jp.KeyV, jp.KeyB,
-			jp.KeyEsc, jp.KeyLeftAlt, jp.KeyMod1, jp.KeySpace, 0, 0,
+			0, 0, jp.KeyEsc, jp.KeyLeftAlt, jp.KeyMod1, jp.KeySpace,
 		},
 		{
 			jp.KeyTab, jp.KeyQ, jp.KeyW, jp.KeyE, jp.KeyR, jp.KeyT,
 			jp.KeyLeftCtrl, jp.KeyA, jp.KeyS, jp.KeyD, jp.KeyF, jp.KeyG,
 			jp.KeyLeftShift, jp.KeyZ, jp.KeyX, jp.KeyC, jp.KeyV, jp.KeyB,
-			jp.KeyEsc, jp.KeyLeftAlt, jp.KeyMod1, jp.KeySpace, 0, 0,
+			0, 0, jp.KeyEsc, jp.KeyLeftAlt, jp.KeyMod1, jp.KeySpace,
 		},
 	})
 
