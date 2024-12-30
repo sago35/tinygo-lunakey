@@ -1,7 +1,13 @@
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510 h1:El6M4kTTCOh6aBiKaUGG7oYTSPP8MxqL4YI3kZKwcP4=
+github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510/go.mod h1:pupxD2MaaD3pAXIBCelhxNneeOaAeabZDe5s4K6zSpQ=
 github.com/itchio/lzma v0.0.0-20190703113020-d3e24e3e3d49 h1:+YrBMf3rkLjkT10zIHyVE4S7ma4hqvfjl6XgnzZwS6o=
 github.com/itchio/lzma v0.0.0-20190703113020-d3e24e3e3d49/go.mod h1:avNrevQMli1pYPsz1+HIHMvx95pk6O+6otbWqCZPeZI=
 github.com/sago35/tinygo-keyboard v0.0.0-20240416235145-066aa2b85a53 h1:YDUOidAkmDtkKhwsAxolOy49L5RlJoKTSkjjzrKg8AQ=
 github.com/sago35/tinygo-keyboard v0.0.0-20240416235145-066aa2b85a53/go.mod h1:jFhDDtRipnSbvhoqlGrR2M7IInnjcMUzuSWznF6obqM=
+github.com/sago35/tinygo-keyboard v0.6.0 h1:FaySFrirB+nx3cGS9cqC3fAIoA1F+B0nKPCYq8Tc0/A=
+github.com/sago35/tinygo-keyboard v0.6.0/go.mod h1:6QssvKSJDoF9dcX8Xh/jKY3K2dghGQ82XVXgBbtS4EM=
+github.com/sago35/tinygo-keyboard v0.6.1-0.20241224112420-64eaa97540f3 h1:EiKt7eXagejxDy/4wHTWeruLsMtAbAtyHgXHsRo/cqg=
+github.com/sago35/tinygo-keyboard v0.6.1-0.20241224112420-64eaa97540f3/go.mod h1:6QssvKSJDoF9dcX8Xh/jKY3K2dghGQ82XVXgBbtS4EM=
 golang.org/x/exp v0.0.0-20231226003508-02704c960a9b h1:kLiC65FbiHWFAOu+lxwNPujcsl8VYyTYYEZnsOO1WK4=
 golang.org/x/exp v0.0.0-20231226003508-02704c960a9b/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
 tinygo.org/x/drivers v0.27.0 h1:TEGk1lQvEhXxfvpEhUu+pwmCnhtldPI+hpHlO9VYixI=
